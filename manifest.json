@@ -1,0 +1,11 @@
+  "name": "PCAwesome",
+  "version": "1.0",
+  "description": "PC FTW!",
+  "permissions": ["webRequest", "webRequestBlocking",
+                  "https://playcanvas.com/*"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "manifest_version": 2
+}
