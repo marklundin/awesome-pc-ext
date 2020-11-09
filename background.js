@@ -15,7 +15,7 @@ chrome.webRequest.onBeforeRequest.addListener(
   // filters
   {
     urls: [
-      "https://www.playcanvas.com/*"
+      "https://playcanvas.com/editor*"
     ],
     types: ["js"]
   },
