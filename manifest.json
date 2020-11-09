@@ -2,7 +2,7 @@
   "version": "1.0",
   "description": "PC FTW!",
   "permissions": ["webRequest", "webRequestBlocking",
-                  "https://playcanvas.com/*"],
+                  "https://playcanvas.com/*", "https://code.playcanvas.com/*"],
   "background": {
     "scripts": ["background.js"]
   },
